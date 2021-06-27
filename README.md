@@ -1,4 +1,4 @@
-# Implementation of Edmond_Karp algorithm
+# Implementation of Edmond-Karp algorithm
 
 Edmonds-Karp algorithm is just an implementation of the Ford-Fulkerson method that uses BFS for finding augmenting paths. 
 The algorithm was first published by Yefim Dinitz in 1970, and later independently published by Jack Edmonds and Richard Karp in 1972.
